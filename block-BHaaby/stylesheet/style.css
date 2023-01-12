@@ -107,12 +107,19 @@ ul{
 	list-style-type: square;
 	padding: 5px 0;
 }
+.image-box li{
+	background-image: url(../assets/media/download.png);
+	background-repeat: no-repeat;
+	background-size: 30px;
+	list-style: none;
+	background-position: -20px;
+}
 dl{
 	margin: 32px 0;
 }
 dt{
 	font-size: 30px;
-	margin-bottom: 20px;
+	margin: 32px 0;
 }
 dd{
 	font-size: 25px;
